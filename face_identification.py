@@ -18,7 +18,7 @@ while True:
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     #faces = faceDetect.detectMultiScale(gray,1.3,5)
 
-    faces = faceCascade.detectMultiScale(
+    faces = faceDetect.detectMultiScale(
         gray,
         scaleFactor=1.1,
         minNeighbors=5,
@@ -38,8 +38,7 @@ while True:
     #print the names
         if (id==4):
             id='sambit'
-        elif(id==2):
-            id='Chinmayee'
+        
 
         cv2.putText(frame,str(id),(x,y+h),font,1,(50,205,50),2,cv2.LINE_4)
 
