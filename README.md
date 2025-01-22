@@ -63,7 +63,7 @@ This project is open-source and available under the **MIT License**.
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📧 Contact
-For questions or suggestions, reach out to **[Your Name](mailto:emsambit@gmail.com)**.
+For questions or suggestions, reach out to **[Sambit](mailto:emsambit@gmail.com)**.
 
 ---
 ⭐ **If you find this project useful, give it a star!** ⭐
